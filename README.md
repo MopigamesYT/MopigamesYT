@@ -1,6 +1,6 @@
 Hi! I'm Mopigames.
 I'm a transgender (MtF) Lesbian developer.
-Taken by Zack uwu
+Taken by Alyxia uwu
 
 [![Mopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mopigamesyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
