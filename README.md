@@ -6,7 +6,7 @@
 
 ### The things i wanna learn/know more about:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,lua,ruby,java,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,lua,ruby,java,rust,go)](https://skillicons.dev)
 
 [![Mopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mopigamesyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
