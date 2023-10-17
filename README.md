@@ -2,7 +2,7 @@
 ## I'm a transgender (MtF) Lesbian developer.
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,py,java,rust,php,neovim,vscode,idea,electron,nodejs,discord,bots,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,py,java,rust,php,neovim,vscode,idea,electron,nodejs,discord,bots,linux,bash,docker)](https://skillicons.dev)
 
 ### The things i wanna learn/know more about:
 
