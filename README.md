@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopigamesyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1022189106614243350)](https://discord.com/users/1022189106614243350)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1022189106614243350?bg=1e1e2e)](https://discord.com/users/1022189106614243350)
 
 
 <!---
